@@ -79,4 +79,11 @@ p, body, .header-nav-item, .user-accounts-text-link, .cart-text-link, .sqs-block
   }
 }
 
-///@media only screen and (min-width: 641px){  #collection-5fc80254473a3b56d49bf143 {  #page .page-section:nth-of-type(4) {  width: 50%; min-height: 80vh;  align-items: center;  float: left;  }  #page .page-section:nth-of-type(5) {  width: 50%;  min-height: 80vh;  align-items: center;  }  }  }
+///@media only screen and (min-width: 641px){
+ #collection-5fc80254473a3b56d49bf143 {
+  #page .page-section:nth-of-type(4) {
+   width: 50%; min-height: 80vh;  align-items: center;  float: left;
+  }
+  #page .page-section:nth-of-type(5) {
+   width: 50%;  min-height: 80vh;  align-items: center;
+  }  }  }
