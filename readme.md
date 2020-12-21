@@ -1,3 +1,3 @@
 ### Refresh `style.css` CDN link
 
-(https://purge.jsdelivr.net/gh/standardvision/public/style.css)[Purge Cache]
+[Purge Cache](https://purge.jsdelivr.net/gh/standardvision/public/style.css)
