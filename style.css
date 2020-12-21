@@ -15,7 +15,7 @@ h1, h2, h3, h4, .header-menu-nav-item {
   font-feature-settings: 'ss01';
 }
 
-p, body, .header-nav-item, .user-accounts-text-link, .cart-text-link, .sqs-block-form .field-list .title, .sqs-block-button-element, body:not(.button-style-default) .sqs-block-form .sqs-editable-button, .sqs-block-form .field-list .caption, .sqs-block-form .field-list .option, .form-wrapper .field-list .field .field-element, .blog-masonry .blog-categories, .blog-masonry .blog-author, .blog-masonry .blog-date, .blog-masonry .blog-excerpt, .blog-masonry .blog-more-link, .blog-item-wrapper .blog-meta-item, .blog-item-wrapper .blog-meta-item a, .blog-item-wrapper .blog-meta-item span, .blog-item-wrapper .item-pagination-prev-next, .gallery-section .gallery-caption p, .blog-side-by-side .blog-categories, .blog-side-by-side .blog-author, .blog-side-by-side .blog-date {
+p, body, .header-nav-item, .user-accounts-text-link, .cart-text-link, .sqs-block-form .field-list .title, .sqs-block-button-element, body:not(.button-style-default) .sqs-block-form .sqs-editable-button, .sqs-block-form .field-list .caption, .sqs-block-form .field-list .option, .form-wrapper .field-list .field .field-element, .blog-masonry .blog-categories, .blog-masonry .blog-author, .blog-masonry .blog-date, .blog-masonry .blog-excerpt, .blog-masonry .blog-more-link, .blog-item-wrapper .blog-meta-item, .blog-item-wrapper .blog-meta-item a, .blog-item-wrapper .blog-meta-item span, .blog-item-wrapper .item-pagination-prev-next, .gallery-section .gallery-caption p, .blog-side-by-side .blog-categories, .blog-side-by-side .blog-author, .blog-side-by-side .blog-date p {
   font-family: Guardian Sans Text;
   font-feature-settings: 'ss01';
 }
