@@ -28,7 +28,7 @@ h1, h2, h3, h4, .header-menu-nav-item, .blog-side-by-side a {
 }*/
 
 footer a {
- text-decoration: none !important;
+ background-image: none !important;
 }
 
 .gallery-section .gallery-caption p {
