@@ -12,12 +12,12 @@ body {
   background-color: hsl(330, 0%, 14%);
 }
 
-p, a, time {
+p, a, time, label {
    font-family: Guardian Sans Text !important;
    font-feature-settings: 'ss01' !important;
 }
 
-h1, h2, h3, h4, .header-menu-nav-item, .blog-side-by-side .blog-title a {
+h1, h2, h3, h4, .header-menu-nav-item, .blog-side-by-side a {
   font-family: Guardian Sans !important;
   font-feature-settings: 'ss01' !important;
 }
