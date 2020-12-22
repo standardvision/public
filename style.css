@@ -31,6 +31,10 @@ footer a {
  background-image: none !important;
 }
 
+footer label {
+ color: #969696 !important;
+}
+
 .gallery-section .gallery-caption p {
   text-align: center;
 }
