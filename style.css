@@ -17,7 +17,7 @@ p, a, time {
    font-feature-settings: 'ss01' !important;
 }
 
-h1, h2, h3, h4, .header-menu-nav-item {
+h1, h2, h3, h4, .header-menu-nav-item, .blog-title {
   font-family: Guardian Sans !important;
   font-feature-settings: 'ss01' !important;
 }
