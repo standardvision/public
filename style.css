@@ -12,7 +12,7 @@ body {
   background-color: hsl(330, 0%, 14%);
 }
 
-p, a, time, label, input, .sqs-block-form {
+p, a, time, label, input, .legend {
    font-family: Guardian Sans Text !important;
    font-feature-settings: 'ss01' !important;
 }
