@@ -31,7 +31,7 @@ footer a {
  background-image: none !important;
 }
 
-footer label {
+footer label, footer svg {
  color: #969696 !important;
 }
 
