@@ -35,6 +35,12 @@ footer label, footer svg {
  color: #969696 !important;
 }
 
+footer input {
+ background: transparent !important;
+ color: #969696 !important;
+ border-color: #969696 !important;
+}
+
 .gallery-section .gallery-caption p {
   text-align: center;
 }
