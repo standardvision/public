@@ -12,7 +12,7 @@ body {
   background-color: hsl(330, 0%, 14%);
 }
 
-p, a, time, label, input {
+p, a, time, label, input, .field-element {
    font-family: Guardian Sans Text !important;
    font-feature-settings: 'ss01' !important;
 }
