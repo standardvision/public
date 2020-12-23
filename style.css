@@ -28,7 +28,7 @@ h1, h2, h3, h4, .header-menu-nav-item, .blog-side-by-side a {
 }*/
 
 .field-element {
-  font-size: 1.3rem !important;
+  font-size: calc(1.1 * 1rem) !important;
 }
 
 footer a {
