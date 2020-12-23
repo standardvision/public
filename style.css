@@ -71,6 +71,7 @@ footer input {
 }
 
 .header-nav-folder-content {
+  text-align: left !important;
   padding: 0 10px 0 10px !important;
 }
 
