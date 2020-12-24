@@ -85,7 +85,7 @@ footer input {
 
 .gallery-slideshow-item img, .gallery-grid-item img, .blog-image-wrapper img, .gallery-masonry-item img, .header-nav-list, .header-nav-folder-content, 
 .image-wrapper, .preFlex, .flexIn, .sqs-block-image img {
-  border-radius: 5px !important;
+  border-radius: 7px !important;
 }
 
 @media only screen and (min-width: 800px) {
