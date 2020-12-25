@@ -77,7 +77,10 @@ footer input {
 .header-nav-folder-content {
   text-align: left !important;
   padding: 10px 10px 10px 10px !important;
-  left: none !important;
+}
+
+.header .header-layout-nav-right .header-nav .header-nav-item--folder .header-nav-folder-content {
+  left: -1em !important;
 }
 
 #header.shrink {
