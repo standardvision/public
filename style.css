@@ -112,6 +112,9 @@ footer input {
 .gallery-masonry-item-wrapper {
    position: absolute !important;
 }
+.gallery-caption {
+   position: absolute !important;
+}
 
 ///@media only screen and (min-width: 641px){
  #collection-5fc80254473a3b56d49bf143 {
