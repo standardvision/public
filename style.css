@@ -109,7 +109,7 @@ footer input {
   }
 }
 
-.gallery-masonry-item {
+.gallery-masonry-item-wrapper {
    position: relative !important;
 }
 .gallery-caption {
