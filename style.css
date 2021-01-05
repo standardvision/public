@@ -110,7 +110,7 @@ footer input {
 }
 
 .gallery-masonry-item-wrapper {
-   position: absolute !important;
+   position: relative !important;
 }
 .gallery-caption {
    position: absolute !important;
