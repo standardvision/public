@@ -109,6 +109,9 @@ footer input {
   }
 }
 
+.gallery-masonry-item {
+   position: relative !important;
+}
 .gallery-caption {
    position: absolute !important;
    top: calc(50% - 1rem) !important;
