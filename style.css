@@ -123,11 +123,11 @@ footer input {
    line-height: 1.1 !important;
 }
 
-.gallery-masonry-item-wrapper:hover img {
+.imgblur {
    filter: brightness(50%) grayscale(100%);
    transition: filter .5s;
 }
-.gallery-masonry-item-wrapper:hover .gallery-caption {
+.captionshow {
    opacity: 100% !important;
    transition: opacity .5s;
 }
