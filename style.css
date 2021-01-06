@@ -125,7 +125,7 @@ footer input {
 
 .gallery-masonry-item-wrapper img:hover {
    filter: brightness(50%);
-   transition: brightness 1s;
+   transition: filter 1s;
 }
 .gallery-caption:hover {
    opacity: 100% !important;
