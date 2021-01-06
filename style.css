@@ -123,7 +123,7 @@ footer input {
    line-height: 1.1 !important;
 }
 
-.gallery-masonry-wrapper:hover {
+.gallery-masonry-item:hover {
    .gallery-masonry-item-wrapper img {
       filter: brightness(50%) grayscale(100%);
       transition: filter .5s;
