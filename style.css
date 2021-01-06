@@ -117,8 +117,9 @@ footer input {
    top: calc(50% - 1rem) !important;
 }
 .gallery-caption p {
-   font-size: 2rem !important;
+   font-size: 1.35 !important;
    font-family: Guardian Sans !important;
+   line-height: 1.1 !important;
 }
 
 ///@media only screen and (min-width: 641px){
