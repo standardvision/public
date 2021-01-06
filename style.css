@@ -123,17 +123,21 @@ footer input {
    line-height: 1.1 !important;
 }
 
-
-
-.gallery-caption:hover {
-   opacity: 100% !important;
-   transition: opacity .5s;
+.gallery-masonry-wrapper:hover {
    .gallery-masonry-item-wrapper img {
       filter: brightness(50%) grayscale(100%);
       transition: filter .5s;
-   } 
+   }  
+  .gallery-caption {
+     opacity: 100% !important;
+     transition: opacity .5s;
+  }
  
 }
+
+
+
+
 
 
 ///@media only screen and (min-width: 641px){
