@@ -126,11 +126,14 @@ footer input {
 .gallery-masonry-item-wrapper img:hover {
    filter: brightness(50%) grayscale(100%);
    transition: filter .5s;
+ 
+   .gallery-caption {
+      opacity: 100% !important;
+      transition: opacity .5s;
+   }
+ 
 }
-.gallery-caption:hover {
-   opacity: 100% !important;
-   transition: opacity .5s;
-}
+
 
 
 ///@media only screen and (min-width: 641px){
