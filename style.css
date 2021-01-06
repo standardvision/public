@@ -123,17 +123,15 @@ footer input {
    line-height: 1.1 !important;
 }
 
-.gallery-masonry-item:hover {
-   img:hover {
-      filter: brightness(50%) grayscale(100%);
-      transition: filter .5s;
-   }  
-  .gallery-caption:hover {
-     opacity: 100% !important;
-     transition: opacity .5s;
-  }
- 
+.gallery-masonry-item-wrapper img:hover {
+   filter: brightness(50%) grayscale(100%);
+   transition: filter .5s;
 }
+.gallery-masonry-item-wrapper .gallery-caption:hover {
+   opacity: 100% !important;
+   transition: opacity .5s;
+}
+
 
 
 
