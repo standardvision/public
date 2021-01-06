@@ -114,7 +114,7 @@ footer input {
 }
 .gallery-caption {
    position: absolute !important;
-   top: calc(50% - 1rem) !important;
+   top: calc(50% - 1.35rem) !important;
 }
 .gallery-caption p {
    font-size: 1.35rem !important;
