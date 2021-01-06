@@ -5,7 +5,7 @@ font-family: 'Guardian Sans';
 src: url(https://static1.squarespace.com/static/5fc76e1543c5ee75bf2c2e03/t/5fc85767ee804a17a1ce71f9/1606965096728/GuardianSans-Semibold.otf); }
 
 @font-face {    
-font-family: 'Guardian Sans Text';       
+font-family: 'Guardian Sans Text'; 
 src: url(https://static1.squarespace.com/static/5fc76e1543c5ee75bf2c2e03/t/5fc85621a9f67830caf7d62e/1606964770595/GuardianTextSans-Regular.otf); }
  
 body {
@@ -115,6 +115,10 @@ footer input {
 .gallery-caption {
    position: absolute !important;
    top: calc(50% - 1rem) !important;
+}
+.gallery-caption p {
+   font-size: 10rem !important;
+   font-family: Guardian Sans !important;
 }
 
 ///@media only screen and (min-width: 641px){
