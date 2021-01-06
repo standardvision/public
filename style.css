@@ -117,7 +117,7 @@ footer input {
 }
 .img-darken {
    filter: brightness(60%);
-   transition: filter .5s .5ms;
+   transition: filter .5s .5s;
 }
 .gallery-caption {
    position: absolute !important;
