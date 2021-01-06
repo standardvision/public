@@ -121,7 +121,7 @@ footer input {
    position: absolute !important;
    top: calc(50% - 1.35rem) !important;
    opacity: 0% !important;
-   background-filter: brightness (100%) blur (0rem) !important;
+   background-filter: brightness (100%) blur (1.5rem) !important;
    transition: opacity .5s 0ms, filter .5s 0ms !important;
 }
 /*.imgblur {
