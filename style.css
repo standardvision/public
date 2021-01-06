@@ -113,7 +113,7 @@ footer input {
 .gallery-masonry-item-wrapper {
    position: relative !important;
    filter: brightness (100%);
-   transition: filter .5s 0ms;
+   transition: filter .5s .5s;
 }
 .img-darken {
    filter: brightness(60%);
