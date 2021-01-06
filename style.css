@@ -115,12 +115,12 @@ footer input {
 .gallery-caption {
    position: absolute !important;
    top: calc(50% - 1.35rem) !important;
+   opacity: 0% !important;
 }
 .gallery-caption p {
    font-size: 1.35rem !important;
    font-family: Guardian Sans !important;
    line-height: 1.1 !important;
-   opacity: 0% !important;
 }
 
 .gallery-masonry-item-wrapper img:hover {
