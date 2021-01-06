@@ -117,9 +117,13 @@ footer input {
    filter: brightness(60%);
    transition: filter .5s 0ms;
 }
-.img-brighten {
+.img-brighten-delay {
    filter: brightness (100%);
    transition: filter .5s .5s;
+}
+.img-brighten {
+   filter: brightness (100%);
+   transition: filter .5s 0ms;
 }
 .gallery-caption {
    position: absolute !important;
