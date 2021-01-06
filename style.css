@@ -124,8 +124,7 @@ footer input {
 }
 
 .gallery-masonry-item-wrapper img:hover {
-   filter: blur(1.5rem);
-   filter: brightness(50%);
+   filter: blur(1.5rem) brightness(50%);
 }
 .gallery-caption p:hover {
    display: block !important;
