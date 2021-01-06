@@ -109,31 +109,32 @@ footer input {
   }
 }
 
-.gallery-caption-wrapper {
- /* border: 1px dashed green !important; */
-}
 
 .gallery-masonry-item-wrapper {
    position: relative !important;
+}
+.gallery-masonry-item-wrapper {
+   filter: brightness (100%) grayscale (0%);
+   transition: filter .5s 0ms;
 }
 .gallery-caption {
    position: absolute !important;
    top: calc(50% - 1.35rem) !important;
    opacity: 0% !important;
+   transition: opacity .5s 0ms;
+}
+.imgblur {
+   filter: brightness(70%) grayscale(100%);
+   transition: filter .5s 0ms;
+}
+.captionshow {
+   opacity: 100% !important;
+   transition: opacity .5s 0ms;
 }
 .gallery-caption p {
    font-size: 1.35rem !important;
    font-family: Guardian Sans !important;
    line-height: 1.1 !important;
-}
-
-.imgblur {
-   filter: brightness(70%) grayscale(100%);
-   transition: filter .5s;
-}
-.captionshow {
-   opacity: 100% !important;
-   transition: opacity .5s;
 }
 
 
