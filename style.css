@@ -120,15 +120,17 @@ footer input {
    font-size: 1.35rem !important;
    font-family: Guardian Sans !important;
    line-height: 1.1 !important;
+   display: none !important;
 }
 
-.gallery-masonry-item-wrapper img {
+.gallery-masonry-item-wrapper img:hover {
    filter: blur(1.5rem);
+   filter: brightness(50%);
+}
+.gallery-caption p:hover {
+   display: block !important;
 }
 
-a.gallery-masonry-image-link:link {
-  display: none;
-}
 
 ///@media only screen and (min-width: 641px){
  #collection-5fc80254473a3b56d49bf143 {
