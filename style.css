@@ -120,14 +120,16 @@ footer input {
    font-size: 1.35rem !important;
    font-family: Guardian Sans !important;
    line-height: 1.1 !important;
-   display: none !important;
+   opacity: 0% !important;
 }
 
 .gallery-masonry-item-wrapper img:hover {
-   filter: blur(1.5rem) brightness(50%);
+   filter: brightness(50%);
+   transition: brightness 1s;
 }
-.gallery-caption p:hover {
-   display: block !important;
+.gallery-caption:hover {
+   opacity: 100% !important;
+   transition: opacity 1s;
 }
 
 
