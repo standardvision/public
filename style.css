@@ -122,6 +122,14 @@ footer input {
    line-height: 1.1 !important;
 }
 
+.gallery-masonry-item-wrapper img {
+   filter: blur(1.5rem);
+}
+
+a.gallery-masonry-image-link:link {
+  display: none;
+}
+
 ///@media only screen and (min-width: 641px){
  #collection-5fc80254473a3b56d49bf143 {
   #page .page-section:nth-of-type(4) {
