@@ -111,6 +111,7 @@ footer input {
 
 .gallery-masonry-item-wrapper {
    position: relative !important;
+   z-index: 1000;
 }
 .gallery-caption {
    position: absolute !important;
