@@ -110,7 +110,7 @@ footer input {
 }
 
 .gallery-caption-wrapper {
- border: 1px dashed green !important;
+ /* border: 1px dashed green !important; */
 }
 
 .gallery-masonry-item-wrapper {
@@ -135,14 +135,6 @@ footer input {
    opacity: 100% !important;
    transition: opacity .5s;
 }
-  
-.projLink{
- height:200px !important;
- border: 2px dashed orange !important;
-}
-
-
-
 
 
 ///@media only screen and (min-width: 641px){
