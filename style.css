@@ -138,7 +138,7 @@ footer input {
   
 .projLink{
  height:200px !important;
- border: 2px dashed orange;
+ border: 2px dashed orange !important;
 }
 
 
