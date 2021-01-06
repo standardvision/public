@@ -112,26 +112,22 @@ footer input {
 
 .gallery-masonry-item-wrapper {
    position: relative !important;
-}
-/*.gallery-masonry-item-wrapper {
-   filter: brightness (100%) grayscale (0%);
+   filter: brightness (100%);
    transition: filter .5s 0ms;
-}*/
+}
+.img-darken {
+   filter: brightness(60%);
+   transition: filter .5s 0ms;
+}
 .gallery-caption {
    position: absolute !important;
    top: calc(50% - 1.35rem) !important;
    opacity: 0% !important;
-   background-filter: brightness (100%) blur (1.5rem) !important;
-   transition: opacity .5s 0ms, filter .5s 0ms !important;
+   transition: opacity .5s 0ms !important;
 }
-/*.imgblur {
-   filter: brightness(70%) grayscale(100%);
-   transition: filter .5s 0ms;
-}*/
-.title-overlay {
+.caption-reveal {
    opacity: 100% !important;
-   background-filter: brightness(70%) blur (1.5rem) !important;
-   transition: opacity .5s 0ms, filter .5s 0ms !important;
+   transition: opacity .5s 0ms !important;
 }
 .gallery-caption p {
    font-size: 1.35rem !important;
