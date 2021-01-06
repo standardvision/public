@@ -128,7 +128,7 @@ footer input {
 }
 
 .imgblur {
-   filter: brightness(50%) grayscale(100%);
+   filter: brightness(70%) grayscale(100%);
    transition: filter .5s;
 }
 .captionshow {
