@@ -1,12 +1,32 @@
 /* change */
 
 @font-face {    
-font-family: 'Guardian Sans';       
-src: url(https://static1.squarespace.com/static/5fc76e1543c5ee75bf2c2e03/t/5fc85767ee804a17a1ce71f9/1606965096728/GuardianSans-Semibold.otf); }
+font-family: 'Guardian Sans';     
+src: url(https://static1.squarespace.com/static/5fc76e1543c5ee75bf2c2e03/t/5fc85767ee804a17a1ce71f9/1606965096728/GuardianSans-Semibold.otf);
+font-weight: bold;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Guardian Sans';
+src: url(https://static1.squarespace.com/static/5fc76e1543c5ee75bf2c2e03/t/5ff95df7401066645eab47fb/1610178039855/GuardianSans-Light.otf);
+font-weight: normal;
+font-style: normal;
+}
 
 @font-face {    
 font-family: 'Guardian Sans Text'; 
-src: url(https://static1.squarespace.com/static/5fc76e1543c5ee75bf2c2e03/t/5fc85621a9f67830caf7d62e/1606964770595/GuardianTextSans-Regular.otf); }
+src: url(https://static1.squarespace.com/static/5fc76e1543c5ee75bf2c2e03/t/5fc85621a9f67830caf7d62e/1606964770595/GuardianTextSans-Regular.otf);
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Guardian Sans Text'
+src: url(https://static1.squarespace.com/static/5fc76e1543c5ee75bf2c2e03/t/5ff96029ebaf65085bf134e8/1610178601921/GuardianTextSans-Bold.otf);
+font-weight: bold;
+font-style: normal;
+}
  
 body {
   background-color: hsl(330, 0%, 14%);
