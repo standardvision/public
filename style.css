@@ -154,18 +154,21 @@ footer input {
    transition: filter .5s 0ms;
 }
 
-.gallery-caption-grid-masonry {
+/*
+.gallery-caption-grid-masonry p {
    position: absolute !important;
-   /*top: calc(50% - 1.35rem) !important;
+   top: calc(50% - 1.35rem) !important;
    opacity: 0% !important;
-   transition: opacity .5s 0ms !important;*/
+   transition: opacity .5s 0ms !important;
 }
+*/
 
 .caption-reveal {
    opacity: 100% !important;
    transition: opacity .5s 0ms !important;
 }
 .gallery-caption-grid-masonry p {
+   position: absolute !important;
    font-size: 1.35rem !important;
    font-family: Guardian Sans !important;
    font-weight: bold !important;
