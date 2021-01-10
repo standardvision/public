@@ -133,11 +133,9 @@ footer input {
   }
 }
 
-/*
 .gallery-masonry-item-wrapper {
    position: relative !important;
 }
-*/
 
 .img-darken {
    filter: brightness(60%);
@@ -156,14 +154,12 @@ footer input {
    transition: filter .5s 0ms;
 }
 
-/*
 .gallery-caption-grid-masonry {
    position: absolute !important;
-   top: calc(50% - 1.35rem) !important;
+   /*top: calc(50% - 1.35rem) !important;
    opacity: 0% !important;
-   transition: opacity .5s 0ms !important;
+   transition: opacity .5s 0ms !important;*/
 }
-*/
 
 .caption-reveal {
    opacity: 100% !important;
