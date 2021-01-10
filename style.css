@@ -160,8 +160,8 @@ footer input {
 
 .gallery-masonry-image-link .gallery-caption-wrapper {
    position: absolute !important;
-   /*top: calc(50% - 1.35rem) !important;
-   opacity: 0% !important;
+   top: 50% !important;
+   /*opacity: 0% !important;
    transition: opacity .5s 0ms !important;*/
    height: 100% !important;
    z-index: 10000 !important;
@@ -177,7 +177,6 @@ footer input {
    font-family: Guardian Sans !important;
    font-weight: bold !important;
    line-height: 1.1 !important;
-   vertical-align: middle !important;
    text-align: center !important;
 }
 
