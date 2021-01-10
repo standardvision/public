@@ -165,7 +165,6 @@ footer input {
    transition: opacity .5s 0ms !important;*/
    height: 100% !important;
    z-index: 10000 !important;
-   vertical-align: middle !important;
 }
 
 .caption-reveal {
@@ -178,6 +177,7 @@ footer input {
    font-family: Guardian Sans !important;
    font-weight: bold !important;
    line-height: 1.1 !important;
+   vertical-align: middle !important;
    text-align: center !important;
 }
 
