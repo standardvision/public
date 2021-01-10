@@ -173,7 +173,7 @@ footer input {
 .gallery-masonry-image-link .gallery-caption-wrapper p {
    font-size: 1.35rem !important;
    font-family: Guardian Sans !important;
-   opacity: 0% !important;
+   opacity: 0%;
    transition: opacity .5s 0ms !important;
    font-weight: bold !important;
    line-height: 1.1 !important;
