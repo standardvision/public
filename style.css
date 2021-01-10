@@ -133,24 +133,29 @@ footer input {
   }
 }
 
-
+/*
 .gallery-masonry-item-wrapper {
    position: relative !important;
 }
+*/
+
 .img-darken {
    filter: brightness(60%);
    transition: filter .5s 0ms;
 }
+
 /*
 .img-brighten-delay {
    filter: brightness (100%);
    transition: filter .5s .5s;
 }
 */
+
 .img-brighten {
    filter: brightness (100%);
    transition: filter .5s 0ms;
 }
+
 /*
 .gallery-caption-grid-masonry {
    position: absolute !important;
@@ -159,6 +164,7 @@ footer input {
    transition: opacity .5s 0ms !important;
 }
 */
+
 .caption-reveal {
    opacity: 100% !important;
    transition: opacity .5s 0ms !important;
