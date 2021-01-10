@@ -160,9 +160,9 @@ footer input {
 
 .gallery-masonry-image-link .gallery-caption-wrapper {
    position: absolute !important;
-   top: calc(50% - 1.35rem) !important;
+   /*top: calc(50% - 1.35rem) !important;
    opacity: 0% !important;
-   transition: opacity .5s 0ms !important;
+   transition: opacity .5s 0ms !important;*/
    height: 100% !important;
    z-index: 10000 !important;
 }
