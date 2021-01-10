@@ -158,7 +158,7 @@ footer input {
    transition: filter .5s 0ms;
 }
 
-.gallery-masonry-item-wrapper .gallery-caption-wrapper {
+.gallery-masonry-image-link .gallery-caption-wrapper {
    position: absolute !important;
    top: calc(50% - 1.35rem) !important;
    opacity: 0% !important;
@@ -172,7 +172,7 @@ footer input {
    transition: opacity .5s 0ms !important;
 }
 
-.gallery-masonry-item-wrapper .gallery-caption-wrapper p {
+.gallery-masonry-image-link .gallery-caption-wrapper p {
    font-size: 1.35rem !important;
    font-family: Guardian Sans !important;
    font-weight: bold !important;
