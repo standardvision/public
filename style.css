@@ -141,20 +141,24 @@ footer input {
    filter: brightness(60%);
    transition: filter .5s 0ms;
 }
+/*
 .img-brighten-delay {
    filter: brightness (100%);
    transition: filter .5s .5s;
 }
+*/
 .img-brighten {
    filter: brightness (100%);
    transition: filter .5s 0ms;
 }
+/*
 .gallery-caption-grid-masonry {
    position: absolute !important;
    top: calc(50% - 1.35rem) !important;
    opacity: 0% !important;
    transition: opacity .5s 0ms !important;
 }
+*/
 .caption-reveal {
    opacity: 100% !important;
    transition: opacity .5s 0ms !important;
