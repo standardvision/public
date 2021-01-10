@@ -137,6 +137,10 @@ footer input {
    position: relative !important;
 }
 
+.gallery-masonry-item-wrapper img {
+   z-index: 1 !important;
+}
+
 .img-darken {
    filter: brightness(60%);
    transition: filter .5s 0ms;
@@ -160,7 +164,7 @@ footer input {
    opacity: 0% !important;
    transition: opacity .5s 0ms !important;
    height: 100% !important;
-   z-index: 1000 !important;
+   z-index: 10000 !important;
 }
 
 .caption-reveal {
