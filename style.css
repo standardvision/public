@@ -184,6 +184,9 @@ footer input {
    display: inline !important;
 }
 
+#footer .sqs-block-socialaccountlinks-v2 .social-account-list.social-icon-color-black a {
+   color: #969696;
+}
 
 ///@media only screen and (min-width: 641px){
  #collection-5fc80254473a3b56d49bf143 {
