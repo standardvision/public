@@ -53,6 +53,10 @@ h1, h2, h3, h4, .header-menu-nav-item, .blog-title a {
   font-size: calc(1.1 * 1rem) !important;
 }
 
+.caption {
+  font-size: calc(0.9 * 1rem) !important;
+}
+
 footer a {
  background-image: none !important;
 }
