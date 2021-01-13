@@ -35,7 +35,7 @@ p, a, time, label, input, legend {
    font-feature-settings: 'ss01' !important;
 }
 
-h1, h2, h3, h4, .header-menu-nav-item, .blog-side-by-side a {
+h1, h2, h3, h4, .header-menu-nav-item, .blog-title a {
   font-family: Guardian Sans !important;
   font-feature-settings: 'ss01' !important;
 }
