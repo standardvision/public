@@ -83,7 +83,7 @@ footer form div.form-button-wrapper {
   text-align: center;
 }
 
-/*.form-wrapper .field-list .field .field-element, .form-wrapper .field-list .field .field-element:focus {
+.form-wrapper .field-list .field .field-element, .form-wrapper .field-list .field .field-element:focus {
   background-color: rgba(0,0,0,0);
   color: white;
   border-color: #808080;
@@ -91,7 +91,7 @@ footer form div.form-button-wrapper {
   border-radius: 0;
   padding: 5px 0 5px 0;
   outline-color: rgba(0,0,0,0);
-}*/
+}
 
 .header .header-nav-wrapper a {
   padding: 5px 0 5px 0;
