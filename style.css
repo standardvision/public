@@ -40,10 +40,6 @@ h1, h2, h3, h4, .header-menu-nav-item, .blog-title a {
   font-feature-settings: 'ss01' !important;
 }
 
-.sqs-block-button {
-  font-weight: bold !important;
-}
-
 /* p, body, .header-nav-item, .user-accounts-text-link, .cart-text-link, .sqs-block-form .field-list .title, .sqs-block-button-element, body:not(.button-style-default) .sqs-block-form .sqs-editable-button, .sqs-block-form .field-list .caption, .sqs-block-form .field-list .option, .form-wrapper .field-list .field .field-element, .blog-masonry .blog-categories, .blog-masonry .blog-author, .blog-masonry .blog-date, .blog-masonry .blog-excerpt, .blog-masonry .blog-more-link, .blog-item-wrapper .blog-meta-item, .blog-item-wrapper .blog-meta-item a, .blog-item-wrapper .blog-meta-item span, .blog-item-wrapper .item-pagination-prev-next, .gallery-section .gallery-caption p, .blog-side-by-side, p {
   font-family: Guardian Sans Text !important;
   font-feature-settings: 'ss01'; 
@@ -87,7 +83,7 @@ footer form div.form-button-wrapper {
   text-align: center;
 }
 
-.form-wrapper .field-list .field .field-element, .form-wrapper .field-list .field .field-element:focus {
+/*.form-wrapper .field-list .field .field-element, .form-wrapper .field-list .field .field-element:focus {
   background-color: rgba(0,0,0,0);
   color: white;
   border-color: #808080;
@@ -95,7 +91,7 @@ footer form div.form-button-wrapper {
   border-radius: 0;
   padding: 5px 0 5px 0;
   outline-color: rgba(0,0,0,0);
-}
+}*/
 
 .header .header-nav-wrapper a {
   padding: 5px 0 5px 0;
