@@ -151,6 +151,10 @@ footer form div.form-button-wrapper {
    z-index: 1 !important;
 }
 
+.gallery-item {
+   cursor: default;
+}
+
 .img-darken {
    filter: brightness(60%);
    transition: filter .5s 0ms;
