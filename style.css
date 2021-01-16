@@ -159,32 +159,21 @@ footer form div.form-button-wrapper {
    filter: brightness(60%);
    transition: filter .5s 0ms;
 }
-
-/*
-.img-brighten-delay {
-   filter: brightness (100%);
-   transition: filter .5s .5s;
-}
-*/
-
 .img-brighten {
    filter: brightness (100%);
    transition: filter .5s 0ms;
 }
-
-.gallery-masonry-image-link .gallery-caption-wrapper {
+#collection-5ff7a6e048de2d43d54f5491 .gallery-caption-wrapper, .gallery-masonry-image-link .gallery-caption-wrapper {
    position: absolute !important;
    top: calc(50% - 1.35rem) !important;
    height: 100% !important;
    z-index: 10000 !important;
 }
-
 .caption-reveal {
    opacity: 100% !important;
    transition: opacity .5s 0ms !important;
 }
-
-.gallery-masonry-image-link .gallery-caption-wrapper p {
+#collection-5ff7a6e048de2d43d54f5491 .gallery-caption-wrapper p, .gallery-masonry-image-link .gallery-caption-wrapper p {
    font-size: 1.35rem !important;
    font-family: Guardian Sans !important;
    opacity: 0%;
