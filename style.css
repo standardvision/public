@@ -15,15 +15,15 @@
 @font-face {    
  font-family: 'Guardian Sans Text'; 
  src: url(https://static1.squarespace.com/static/5fc76e1543c5ee75bf2c2e03/t/5fc85621a9f67830caf7d62e/1606964770595/GuardianTextSans-Regular.otf);
- font-weight: normal !important;
- font-style: normal !important;
+ font-weight: normal;
+ font-style: normal;
 }
 
 @font-face {
  font-family: 'Guardian Sans Text';
  src: url(https://static1.squarespace.com/static/5fc76e1543c5ee75bf2c2e03/t/5ff96029ebaf65085bf134e8/1610178601921/GuardianTextSans-Bold.otf);
- font-weight: bold !important;
- font-style: normal !important;
+ font-weight: bold;
+ font-style: normal;
 }
 
 body {
