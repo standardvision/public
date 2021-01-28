@@ -30,7 +30,7 @@ body {
   background-color: hsl(330, 0%, 14%) !important;
 }
 
-p, a, time, label, input, legend, .lightbox-close {
+p, a, time, label, input, legend, .lightbox-close, .sqs-editable-button {
    font-family: Guardian Sans Text !important;
    font-feature-settings: 'ss01' !important;
    color: white !important;
@@ -130,7 +130,7 @@ footer form div.form-button-wrapper {
   background-color: rgba(0,0,0,0);
 }
 
-.gallery-slideshow-item img, .gallery-grid-item img, .lightbox-content, .blog-image-wrapper img, .gallery-masonry-item img, .header-nav-list, .header-nav-folder-content, 
+.gallery-slideshow-item img, .gallery-grid-item img, .sqs-system-button, .lightbox-content, .blog-image-wrapper img, .gallery-masonry-item img, .header-nav-list, .header-nav-folder-content, 
 .image-wrapper, .preFlex, .flexIn, .sqs-block-image img {
   border-radius: 7px !important;
 }
