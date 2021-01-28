@@ -33,11 +33,13 @@ body {
 p, a, time, label, input, legend {
    font-family: Guardian Sans Text !important;
    font-feature-settings: 'ss01' !important;
+   color: white;
 }
 
 h1, h2, h3, h4, .header-menu-nav-item, .form-title, .blog-title a {
   font-family: Guardian Sans !important;
   font-feature-settings: 'ss01' !important;
+  color: white;
 }
 
 a.sqs-block-button-element--large.sqs-block-button-element:hover {
