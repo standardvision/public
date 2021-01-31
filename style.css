@@ -64,7 +64,7 @@ a.sqs-block-button-element--large.sqs-block-button-element:hover {
 }
 
 .caption p {
-  font-size: calc(0.9 * 1rem) !important;
+  font-size: calc(0.9 * 1rem) !important !important;
 }
 
 footer a {
