@@ -30,7 +30,7 @@ body {
   background-color: hsl(330, 0%, 14%) !important;
 }
 
-p, a, time, label, input, body, legend, .lightbox-close, .site-wrapper.sqs-catalog, blog-item-author-date-wrapper, .field-element {
+p, a, time, label, input, body, legend, .lightbox-close, .site-wrapper.sqs-catalog, .blog-meta-item span, .field-element {
    font-family: Guardian Sans Text !important;
    font-feature-settings: 'ss01' !important;
    color: white !important;
