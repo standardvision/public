@@ -67,6 +67,10 @@ a.sqs-block-button-element--large.sqs-block-button-element:hover {
   font-size: calc(0.9 * 1rem) !important !important;
 }
 
+.sqs-block-form.field-list.caption {
+  font-size: calc(0.9 * 1rem) !important;
+}
+
 footer a {
  background-image: none !important;
 }
