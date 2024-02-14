@@ -181,7 +181,7 @@ footer form div.form-button-wrapper {
    filter: brightness (100%);
    transition: filter .5s 0ms;
 }
-#collection-5ff7a6e048de2d43d54f5491 .gallery-caption-wrapper, .gallery-masonry-image-link .gallery-caption-wrapper {
+#collection-5ff7a6e048de2d43d54f5491 .gallery-caption-wrapper, #collection-65cbbf6c59d26002e763ba8e .gallery-caption-wrapper, #collection-65cbb6450678105600ce4c37 .gallery-caption-wrapper, .gallery-masonry-image-link .gallery-caption-wrapper {
    position: absolute !important;
    top: calc(50% - 1.35rem) !important;
    height: 100% !important;
@@ -191,7 +191,7 @@ footer form div.form-button-wrapper {
    opacity: 100% !important;
    transition: opacity .5s 0ms !important;
 }
-#collection-5ff7a6e048de2d43d54f5491 .gallery-caption-wrapper p, .gallery-masonry-image-link .gallery-caption-wrapper p {
+#collection-5ff7a6e048de2d43d54f5491 .gallery-caption-wrapper p, #collection-65cbbf6c59d26002e763ba8e .gallery-caption-wrapper p, #collection-65cbb6450678105600ce4c37 .gallery-caption-wrapper p, .gallery-masonry-image-link .gallery-caption-wrapper p {
    font-size: 1.35rem !important;
    font-family: Guardian Sans !important;
    opacity: 0%;
