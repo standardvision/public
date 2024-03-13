@@ -211,16 +211,19 @@ footer form div.form-button-wrapper {
    text-align: center !important;
 }
 
-.gallery-caption-wrapper p, .gallery-caption-wrapper p, .gallery-caption-wrapper p, .gallery-masonry-image-link .gallery-caption-wrapper p {
+.gallery-caption-wrapper p, .gallery-masonry-image-link .gallery-caption-wrapper p {
    font-size: 1.35rem !important;
    font-family: Guardian Sans !important;
-   opacity: 0%;
+   opacity: 0% !important;
    transition: opacity .5s 0ms !important;
    font-weight: bold !important;
    line-height: 1.1 !important;
    text-align: center !important;
 }
 
+.gallery-caption-wrapper p.gallery-caption-content.caption-reveal, .gallery-masonry-image-link .gallery-caption-wrapper p.gallery-caption-content.caption-reveal {
+   opacity: 100% !important;
+}
 
   .newsletter-block .newsletter-form-wrapper {
     padding: 0;
